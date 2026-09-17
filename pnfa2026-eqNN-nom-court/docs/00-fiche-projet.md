@@ -36,11 +36,24 @@ Ce que l'objet fait :
  - l'eleve exploite  des données pour prendre les decision ( aérer la salle et déclancher une alarme)
  - fonctionner hors reseau :stockage local + alimentation USB / batterie.
   croquis ou esquisse annotée
-  ![dectecteur de qualité d'air](<../medias/dectecteur de qualité d'air.jpeg>)
+  ![Détecteur de qualité d'air](./medias/dectecteur de qualité d'air.jpeg)
 
-   ![prototype](../medias/prototype.jpeg)
+  ![Impression 3D 01](./medias/impression 3D 01.jpeg)
 
-(versée dans `docs/medias/`).
+  ![Impression 3D 02](./medias/Impression 3D 02.jpeg)
+
+  ![Prototype](./medias/prototype.jpeg)
+
+  ![BROUTAGE](./medias/BROUTAGE.jpeg)
+
+  ![montage 001](<../medias/montage 001.jpeg>) 
+
+![Montage 002](<../medias/Montage 002.jpeg>)
+
+![Montage du differents capteurs sur le boitier](<../medias/Montage du differents capteurs sur le boitier.jpeg>)
+
+<video controls src="../medias/simulation avec les lumiere.mp4" title="Title"></video>
+
 
 ## 5. Architecture technique pressentie
 
